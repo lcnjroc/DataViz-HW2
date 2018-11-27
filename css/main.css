@@ -1,0 +1,67 @@
+@charset "utf-8";
+/*CSS Document*/
+
+
+.hidden
+
+{
+	display: none;
+}
+
+#mainHeader
+{
+    margin: 0 auto;
+    background-color: #3a3a3a;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+
+#ausFlag
+{
+    margin-top: 35px;
+}
+
+#Rings
+{
+    margin-top: 25px;
+}
+
+#mainTitle
+{
+    margin-top: 70px;
+    font-size: 65px;
+}
+
+.mainContent
+{
+    align-content: center;
+    text-align: center;
+    margin-top: 50px;
+}
+
+h2
+{
+    font-size: 35px;
+}
+
+p
+{
+    margin-left: 350px;
+    margin-right: 350px;
+    font-size: 20px;
+    text-align: left;
+    text-indent: 15px;
+}
+
+#part1
+{
+    margin-top: 100px;
+}
+
+#part2
+{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
